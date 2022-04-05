@@ -1,0 +1,2 @@
+# Trainee
+Repositorio para entrenamiento
